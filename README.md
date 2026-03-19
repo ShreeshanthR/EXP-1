@@ -1,4 +1,4 @@
-# EXP-1
+![WhatsApp Image 2026-03-20 at 01 11 15](https://github.com/user-attachments/assets/e00aaebe-738d-412b-9930-ba49238fb913)# EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -38,25 +38,30 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 
 
 a.   KVL:
  
+<img width="957" height="566" alt="ex_1 1" src="https://github.com/user-attachments/assets/6ab7c15f-a77d-42f2-ae36-7feac8dee2d5" />
+![WhatsApp Image 2026-03-20 at 01 10 42](https://github.com/user-attachments/assets/2d516ace-4ff6-4787-84ec-55b9c79ca454)
 
 
 b.  KCL:
- 
+ <img width="1054" height="462" alt="ex_1 2" src="https://github.com/user-attachments/assets/2e3a5114-7968-43a8-9c13-b97e4172a55f" />
+
+![WhatsApp Image 2026-03-20 at 01 11 15](https://github.com/user-attachments/assets/db1b1082-7ecd-4ee8-96ae-a2ab0c9c5ce9)
 
 Calculation:
 
 a.   KVL:
- 
+ ![WhatsApp Image 2026-03-20 at 01 09 13](https://github.com/user-attachments/assets/8c5a79f2-10c3-4b18-8f83-d72e35fd67ed)
+
 
 
 b.  KCL:
+![WhatsApp Image 2026-03-20 at 01 11 47](https://github.com/user-attachments/assets/2805a1ba-5b41-45d6-9eab-62274b396ea6)
 
 
 
@@ -64,11 +69,13 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ ![WhatsApp Image 2026-03-20 at 01 09 43](https://github.com/user-attachments/assets/c84266df-9b25-4d52-b02a-617e3573d718)
+
 
 
 b.  KCL:
 
+![WhatsApp Image 2026-03-20 at 01 12 27](https://github.com/user-attachments/assets/cb6ad034-b5d3-4ed0-9d78-0a4d90678275)
 
 
 RESULT:
